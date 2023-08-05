@@ -1,0 +1,21 @@
+{
+  "name": "svg-generator",
+  "version": "1.0.0",
+  "description": "Create a svg logo using prompts",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "logo"
+  ],
+  "author": "Jessica Dorgu",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
+}
